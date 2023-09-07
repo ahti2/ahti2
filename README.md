@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ahti2
+- 👀 I’m interested in hackin/coding
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate with other newbies
+- 📫 How to reach me with email ahti.jokirinne@gmail.com
